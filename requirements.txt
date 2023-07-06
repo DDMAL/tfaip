@@ -7,7 +7,7 @@ opencv-python-headless==4.1.2.30
 openpyxl==3.1.2
 paiargparse==1.1.2
 pandas==1.3.5
-pillow==8.2.0
+pillow==8.3.2
 prettytable==3.7.0
 python-Levenshtein==0.21.1
 scikit-image==0.17.2
